@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstDay</string>
+    <string name="counter">Age = %d</string>
+</resources>
